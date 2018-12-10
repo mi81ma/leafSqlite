@@ -1,0 +1,4 @@
+module CNIOHTTPParser {
+    umbrella "/Users/masato/dev/vaporSwift_AWS/10InstallingLeafandPostgreSQLPackages/leafSqlite/.build/checkouts/swift-nio.git--5457169497591870786/Sources/CNIOHTTPParser/include"
+    export *
+}
