@@ -1,4 +1,4 @@
 module CNIOOpenSSL {
-    umbrella "/Users/masato/dev/vaporSwift_AWS/10InstallingLeafandPostgreSQLPackages/leafSqlite/.build/checkouts/swift-nio-ssl.git--5737745771976360048/Sources/CNIOOpenSSL/include"
+    umbrella "/Users/masato/Documents/GitHub/leafSqlite/.build/checkouts/swift-nio-ssl.git--3180293474341555321/Sources/CNIOOpenSSL/include"
     export *
 }

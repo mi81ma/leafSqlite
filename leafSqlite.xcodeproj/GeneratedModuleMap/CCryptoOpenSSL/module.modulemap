@@ -1,4 +1,4 @@
 module CCryptoOpenSSL {
-    umbrella "/Users/masato/dev/vaporSwift_AWS/10InstallingLeafandPostgreSQLPackages/leafSqlite/.build/checkouts/crypto.git--1484254217979342777/Sources/CCryptoOpenSSL/include"
+    umbrella "/Users/masato/Documents/GitHub/leafSqlite/.build/checkouts/crypto.git--7739013872129985300/Sources/CCryptoOpenSSL/include"
     export *
 }
